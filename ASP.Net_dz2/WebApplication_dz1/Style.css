@@ -1,0 +1,122 @@
+﻿body {
+}
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: blue;
+}
+.linkPadding {
+    float: right;
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    position: relative;
+    padding: 8px 20px;
+    bottom: 18px;
+    border-radius: 3px;
+    background-color: #dc0505;
+    border-color: darkred;
+}
+.formH2{
+    text-align: center;
+}
+.formReg {
+    width: 600px;
+    margin: 0 auto;
+}
+.formReg table {
+    width: 100%;
+    border: 1px solid;
+    padding: 20px 70px;
+    margin: 0 0 30px;
+}
+.formReg input {
+
+}
+.formReg tr {
+   height: 40px;
+}
+.formReg tr {
+   font-weight:600;
+}
+.formReg h2 {
+   text-align:center;
+}
+.TableUsers {
+        width: 500px;
+        margin: 40px auto;
+        border: 1px solid #000;
+        text-align: center;
+        border-collapse: collapse;
+    }
+.th {
+    font-weight: bold;
+    color: #fff;
+    background: #795548;
+}
+.TableUsers td {
+    padding: 5px;
+    border: 1px solid #000;
+}
+.ListBoxRole {
+    width:56%; 
+}
+#ButtonAdd {
+    float: left;
+}
+.footer {
+    width: 77%;
+    padding: 12px 70px 0;
+    background: #777;
+    display: inline-block;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #147129;
+    width: 40%;
+}
+.btn-cancel {
+    color: #fff;
+    background-color: #dc0505;
+    border-color: darkred;
+    width: 40%;
+}
+#Edit1 {
+    float: left;
+    margin: 0 0 13px;
+}
+#Cancel {
+    float: right;
+    margin: 0 0 13px;
+}
+#Return {
+    margin: 0 0 13px;
+    display: block;
+    float:right;
+}
+.link{
+    float:right;
+}
+#CheckBoxList1 label{
+    padding-left:10px;
+}
